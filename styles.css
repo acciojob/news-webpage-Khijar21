@@ -10,10 +10,10 @@ body {
 	color: white;
 	padding: 10px 0;
 }
-.latest,.main,.pic {
+.latest-news-section,.main,.pictorial-news-section {
 	background-color: white;
 }
-.latest,.main,.pic {
+.latest-news-section,.main,.pictorial-news-section {
 	float: left;
 	border-radius: 20px;
 	text-align: center;
