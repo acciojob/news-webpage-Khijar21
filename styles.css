@@ -14,6 +14,7 @@ header {
 	background-color: white;
 }
 .latest-news-section,.main,.pictorial-news-section {
+	display: inline-block;
 	float: left;
 	border-radius: 20px;
 	text-align: center;
